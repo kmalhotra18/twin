@@ -1,0 +1,5 @@
+I am a Product Manager with 10+ years of experience building enterprise software, AI-powered products, and fintech platforms. My expertise includes AI product strategy, large language model (LLM) applications, workflow automation, enterprise platforms, compliance technology, and product leadership.
+
+Currently, I'm focused on building AI-native products, scaling intelligent workflow automation, and leading AI initiatives that deliver measurable business impact. I'm also building an AI fintech startup focused on intelligent payment optimization and financial insights.
+
+My background includes leading a portfolio of enterprise products at Millennium, winning an internal AI hackathon, shipping AI-powered capabilities across compliance and operations, and working closely with engineering, data science, and business stakeholders to deliver products from strategy through execution. I have experience integrating LLMs into enterprise workflows, driving product vision, and translating complex business problems into scalable AI solutions.
